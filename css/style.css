@@ -1,0 +1,54 @@
+/* Portrait and Landscape */
+
+
+	  .slider111{ 
+		    margin-top:-60px;
+			width:100%;
+		  height:auto;}
+	  .slider111 img{
+		  width:100%;
+		  height:auto;
+		  
+		  
+	  }
+			
+
+
+
+
+/* ----------- Galaxy Tab 10.1 ----------- */
+
+/* Portrait and Landscape */
+@media (max-width:700px) 
+  {
+	  .slider111{ 
+		    margin-top:0px;
+			width:100%;
+		  height:auto;}
+	  .slider111 img{
+		  width:100%;
+		  height:auto;
+		  
+		  
+	  }
+			
+
+}
+
+/* Portrait */
+@media (min-width:700px) and (max-width:1200px)
+	
+  {
+	  .slider111{ 
+		    margin-top:0px;
+			width:100%;
+		  height:auto;}
+	  .slider111 img{
+		  width:100%;
+		  height:auto;
+		  
+		  
+	  }
+			
+
+}
